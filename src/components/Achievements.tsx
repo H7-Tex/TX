@@ -57,7 +57,7 @@ const achievements: Achievement[] = [
   },
   {
     icon: <Medal className="w-8 h-8 text-cyan-400" />,
-    title: "Sans CTF 2nd Place",
+    title: "SANS CTF 2nd Place",
     description: "Secured 2nd place, winning SEC275 certification"
   },
 ];
