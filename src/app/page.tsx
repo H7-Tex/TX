@@ -85,8 +85,8 @@ const members = [
     role: 'Member',
     oneLiner: 'somewhere between who I am and who I am becoming',
     socials: {
-      github: 'https://github.com/cook1e',
-      twitter: 'https://twitter.com/cook1e'
+      github: 'https://github.com/0xCook1e',
+      twitter: 'https://twitter.com/RookieCookieFX'
     }
   },
   { 
