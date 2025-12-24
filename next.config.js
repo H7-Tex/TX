@@ -5,7 +5,6 @@ const nextConfig = {
     unoptimized: true,
   },
   trailingSlash: true,
-  distDir: '.next',
 };
 
-export default nextConfig;
+module.exports = nextConfig;
