@@ -4,7 +4,7 @@ const AboutText = () => {
   const [displayText, setDisplayText] = useState('');
   const [isTypingComplete, setIsTypingComplete] = useState(false);
 
-  const content = "It all started back in February 2024, inspired by Plaid Parliament of Pwning (PPP) dominating DEF CON. Fast forward 10 months, and here we are—ranked #7 in India, with over 100 CTFs under our belt. Our dream? To become a powerhouse in the International CTF scene. But enough about us. Why not drop by our Discord? Let’s chat, exchange ideas, or even team up—we’d love to hear your story. Find your way to our Discord and say hello!";
+  const content = "It all started back in February 2024, inspired by Plaid Parliament of Pwning (PPP) dominating DEF CON. Fast forward 10 months, and here we are ranked #7 in India, with over 400 CTFs under our belt. Our dream? To become a powerhouse in the International CTF scene. But enough about us. Why not drop by our Discord? Let’s chat, exchange ideas, or even team up - we’d love to hear your story. Find your way to our Discord and say hello!";
 
   const typeText = useCallback(async () => {
     let currentText = '';

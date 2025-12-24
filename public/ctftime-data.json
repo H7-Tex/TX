@@ -1,0 +1,1643 @@
+{
+  "team": {
+    "academic": false,
+    "primary_alias": "H7Tex",
+    "name": "H7Tex",
+    "rating": {
+      "2011": {},
+      "2012": {
+        "country_place": 6
+      },
+      "2013": {
+        "country_place": 15
+      },
+      "2014": {
+        "country_place": 14
+      },
+      "2015": {
+        "country_place": 17
+      },
+      "2016": {
+        "country_place": 20
+      },
+      "2017": {
+        "country_place": 20
+      },
+      "2018": {
+        "country_place": 32
+      },
+      "2019": {
+        "country_place": 47
+      },
+      "2020": {
+        "country_place": 66
+      },
+      "2021": {
+        "country_place": 58
+      },
+      "2022": {
+        "country_place": 50
+      },
+      "2023": {
+        "country_place": 38
+      },
+      "2024": {
+        "rating_place": 182,
+        "organizer_points": 45.12,
+        "rating_points": 205.721480708,
+        "country_place": 7
+      },
+      "2025": {
+        "rating_place": 130,
+        "organizer_points": 90.24,
+        "rating_points": 320.232796069,
+        "country_place": 9
+      }
+    },
+    "logo": "https://ctftime.org//media/team/trans_1.png",
+    "country": "IN",
+    "id": 281844,
+    "aliases": []
+  },
+  "results": {
+    "2024": [
+      {
+        "event_id": "2117",
+        "title": "bi0sCTF 2024",
+        "place": 259,
+        "points": "100.0000",
+        "rating_points": 0.855717251439767,
+        "time": 1708776000,
+        "organized": false
+      },
+      {
+        "event_id": "2119",
+        "title": "LINE CTF 2024",
+        "place": 279,
+        "points": "101.0000",
+        "rating_points": 1.547039022219844,
+        "time": 1711152000,
+        "organized": false
+      },
+      {
+        "event_id": "2138",
+        "title": "SwampCTF 2024",
+        "place": 105,
+        "points": "525.0000",
+        "rating_points": 3.512157953125219,
+        "time": 1712354400,
+        "organized": false
+      },
+      {
+        "event_id": "2179",
+        "title": "WxMCTF 2024",
+        "place": 180,
+        "points": "311.0000",
+        "rating_points": 1.1196676024495054,
+        "time": 1709942400,
+        "organized": false
+      },
+      {
+        "event_id": "2181",
+        "title": "BraekerCTF",
+        "place": 470,
+        "points": "70.0000",
+        "rating_points": 0.4973143260224085,
+        "time": 1708689600,
+        "organized": false
+      },
+      {
+        "event_id": "2200",
+        "title": "VolgaCTF 2024 Qualifier",
+        "place": 205,
+        "points": "91.0000",
+        "rating_points": 1.7387161862527714,
+        "time": 1711810800,
+        "organized": false
+      },
+      {
+        "event_id": "2222",
+        "title": "Akasec CTF 2024",
+        "place": 462,
+        "points": "200.0000",
+        "rating_points": 0.3559610458243038,
+        "time": 1717767420,
+        "organized": false
+      },
+      {
+        "event_id": "2223",
+        "title": "CrewCTF 2024",
+        "place": 187,
+        "points": "100.0000",
+        "rating_points": 0.43010428718490645,
+        "time": 1722618000,
+        "organized": false
+      },
+      {
+        "event_id": "2226",
+        "title": "AmateursCTF 2024",
+        "place": 95,
+        "points": "2440.0000",
+        "rating_points": 4.504652928683669,
+        "time": 1712325600,
+        "organized": false
+      },
+      {
+        "event_id": "2227",
+        "title": "KalmarCTF 2024",
+        "place": 212,
+        "points": "100.0000",
+        "rating_points": 0.35988514385500003,
+        "time": 1710522000,
+        "organized": false
+      },
+      {
+        "event_id": "2229",
+        "title": "DEF CON CTF Qualifier 2024",
+        "place": 254,
+        "points": "1.0000",
+        "rating_points": 0.3244460787079199,
+        "time": 1714780800,
+        "organized": false
+      },
+      {
+        "event_id": "2230",
+        "title": "JerseyCTF IV",
+        "place": 151,
+        "points": "2151.0000",
+        "rating_points": 1.7780529455154508,
+        "time": 1711209600,
+        "organized": false
+      },
+      {
+        "event_id": "2231",
+        "title": "Pearl CTF",
+        "place": 330,
+        "points": "100.0000",
+        "rating_points": 0.2592476203972696,
+        "time": 1709899200,
+        "organized": false
+      },
+      {
+        "event_id": "2234",
+        "title": "1753CTF 2024",
+        "place": 133,
+        "points": "200.0000",
+        "rating_points": 0.9298096874233059,
+        "time": 1710536400,
+        "organized": false
+      },
+      {
+        "event_id": "2238",
+        "title": "TAMUctf 2024",
+        "place": 135,
+        "points": "661.0000",
+        "rating_points": 2.4059172667432676,
+        "time": 1712354400,
+        "organized": false
+      },
+      {
+        "event_id": "2239",
+        "title": "CursedCTF 2024 Quals",
+        "place": 33,
+        "points": "4145.0000",
+        "rating_points": 4.831151457921996,
+        "time": 1711756800,
+        "organized": false
+      },
+      {
+        "event_id": "2240",
+        "title": " WolvCTF 2024",
+        "place": 225,
+        "points": "800.0000",
+        "rating_points": 2.0536127180591057,
+        "time": 1710543600,
+        "organized": false
+      },
+      {
+        "event_id": "2242",
+        "title": "Grey Cat The Flag 2024 Qualifiers",
+        "place": 128,
+        "points": "900.0000",
+        "rating_points": 1.5870609287709498,
+        "time": 1713585600,
+        "organized": false
+      },
+      {
+        "event_id": "2243",
+        "title": "SekaiCTF 2024",
+        "place": 811,
+        "points": "39.0000",
+        "rating_points": 0.2982359429016665,
+        "time": 1724428800,
+        "organized": false
+      },
+      {
+        "event_id": "2245",
+        "title": "PlaidCTF 2024",
+        "place": 479,
+        "points": "1.0000",
+        "rating_points": 0.22420563562561185,
+        "time": 1712955600,
+        "organized": false
+      },
+      {
+        "event_id": "2248",
+        "title": "vsCTF 2024",
+        "place": 356,
+        "points": "867.0000",
+        "rating_points": 2.710658208467237,
+        "time": 1718380800,
+        "organized": false
+      },
+      {
+        "event_id": "2250",
+        "title": "b01lers CTF 2024",
+        "place": 208,
+        "points": "381.0000",
+        "rating_points": 0.8552908084502733,
+        "time": 1712962800,
+        "organized": false
+      },
+      {
+        "event_id": "2252",
+        "title": "BYUCTF 2024",
+        "place": 896,
+        "points": "200.0000",
+        "rating_points": 0.44227939543354655,
+        "time": 1715904000,
+        "organized": false
+      },
+      {
+        "event_id": "2254",
+        "title": "Space Heroes 2024",
+        "place": 210,
+        "points": "400.0000",
+        "rating_points": 0.9672872725168533,
+        "time": 1712959200,
+        "organized": false
+      },
+      {
+        "event_id": "2255",
+        "title": "Cyber Apocalypse 2024: Hacker Royale",
+        "place": 796,
+        "points": "6000.0000",
+        "rating_points": 7.191311569782084,
+        "time": 1709989200,
+        "organized": false
+      },
+      {
+        "event_id": "2256",
+        "title": "TCP1P CTF 2024: Exploring Nusantara's Digital Realm",
+        "place": 203,
+        "points": "300.0000",
+        "rating_points": 0.8051686241319308,
+        "time": 1728648000,
+        "organized": false
+      },
+      {
+        "event_id": "2259",
+        "title": "Junior.Crypt.2024 CTF",
+        "place": 69,
+        "points": "1450.0000",
+        "rating_points": 6.520849999198115,
+        "time": 1720018800,
+        "organized": false
+      },
+      {
+        "event_id": "2262",
+        "title": "DamCTF 2024",
+        "place": 144,
+        "points": "100.0000",
+        "rating_points": 0.9278014924182516,
+        "time": 1712361600,
+        "organized": false
+      },
+      {
+        "event_id": "2263",
+        "title": "vikeCTF 2024",
+        "place": 181,
+        "points": "200.0000",
+        "rating_points": 1.4002103126798844,
+        "time": 1709942400,
+        "organized": false
+      },
+      {
+        "event_id": "2268",
+        "title": "Shakti CTF 2024",
+        "place": 71,
+        "points": "1500.0000",
+        "rating_points": 7.096445965512702,
+        "time": 1709901000,
+        "organized": false
+      },
+      {
+        "event_id": "2272",
+        "title": "VishwaCTF 2024",
+        "place": 78,
+        "points": "4158.0000",
+        "rating_points": 9.961022880333676,
+        "time": 1709289000,
+        "organized": false
+      },
+      {
+        "event_id": "2274",
+        "title": "BCACTF 5.0",
+        "place": 583,
+        "points": "125.0000",
+        "rating_points": 1.0593752049757221,
+        "time": 1717790400,
+        "organized": false
+      },
+      {
+        "event_id": "2281",
+        "title": "Texas Security Awareness Week 2024",
+        "place": 135,
+        "points": "460.0000",
+        "rating_points": 3.0239577816158127,
+        "time": 1711206000,
+        "organized": false
+      },
+      {
+        "event_id": "2282",
+        "title": "corCTF 2024",
+        "place": 206,
+        "points": "226.0000",
+        "rating_points": 2.4732380725897896,
+        "time": 1722038400,
+        "organized": false
+      },
+      {
+        "event_id": "2283",
+        "title": " Undutmaning 2024",
+        "place": 216,
+        "points": "100.0000",
+        "rating_points": 0.7020852243401499,
+        "time": 1711195200,
+        "organized": false
+      },
+      {
+        "event_id": "2284",
+        "title": "DownUnderCTF 2024",
+        "place": 362,
+        "points": "1408.0000",
+        "rating_points": 8.297692531825366,
+        "time": 1720171800,
+        "organized": false
+      },
+      {
+        "event_id": "2287",
+        "title": "UMassCTF 2024",
+        "place": 191,
+        "points": "410.0000",
+        "rating_points": 2.07563351223833,
+        "time": 1713564000,
+        "organized": false
+      },
+      {
+        "event_id": "2288",
+        "title": "cr3 CTF 2024",
+        "place": 189,
+        "points": "2.0000",
+        "rating_points": 0.12981792687417093,
+        "time": 1714136400,
+        "organized": false
+      },
+      {
+        "event_id": "2289",
+        "title": "Break the Syntax CTF 2024",
+        "place": 120,
+        "points": "262.0000",
+        "rating_points": 0.901237623021927,
+        "time": 1715961600,
+        "organized": false
+      },
+      {
+        "event_id": "2291",
+        "title": "RITSEC CTF 2024",
+        "place": 244,
+        "points": "200.0000",
+        "rating_points": 0.7221571321601701,
+        "time": 1712332800,
+        "organized": false
+      },
+      {
+        "event_id": "2297",
+        "title": "UNbreakable International 2024 - Team Phase",
+        "place": 62,
+        "points": "468.0000",
+        "rating_points": 1.8847647531691227,
+        "time": 1712311200,
+        "organized": false
+      },
+      {
+        "event_id": "2302",
+        "title": "UTCTF 2024",
+        "place": 458,
+        "points": "600.0000",
+        "rating_points": 1.508928109509457,
+        "time": 1711753200,
+        "organized": false
+      },
+      {
+        "event_id": "2304",
+        "title": "idekCTF 2024",
+        "place": 285,
+        "points": "300.0000",
+        "rating_points": 2.1801087948160465,
+        "time": 1723852800,
+        "organized": false
+      },
+      {
+        "event_id": "2313",
+        "title": "SpartanCTF 2024",
+        "place": 15,
+        "points": "1908.0000",
+        "rating_points": 0,
+        "time": 1713369600,
+        "organized": false
+      },
+      {
+        "event_id": "2316",
+        "title": "Incognito 5.0",
+        "place": 170,
+        "points": "300.0000",
+        "rating_points": 1.9282979749276756,
+        "time": 1713261600,
+        "organized": false
+      },
+      {
+        "event_id": "2321",
+        "title": "TJCTF 2024",
+        "place": 171,
+        "points": "800.0000",
+        "rating_points": 3.262670188985979,
+        "time": 1715970600,
+        "organized": false
+      },
+      {
+        "event_id": "2322",
+        "title": "L3akCTF 2024",
+        "place": 252,
+        "points": "200.0000",
+        "rating_points": 0.3229075392971476,
+        "time": 1716552000,
+        "organized": false
+      },
+      {
+        "event_id": "2323",
+        "title": "UMDCTF 2024",
+        "place": 187,
+        "points": "953.0000",
+        "rating_points": 3.389254888567285,
+        "time": 1714168800,
+        "organized": false
+      },
+      {
+        "event_id": "2324",
+        "title": "TBTL CTF 2024",
+        "place": 355,
+        "points": "200.0000",
+        "rating_points": 1.0928945805906787,
+        "time": 1715378400,
+        "organized": false
+      },
+      {
+        "event_id": "2325",
+        "title": "San Diego CTF 2024",
+        "place": 201,
+        "points": "100.0000",
+        "rating_points": 0.7210870339063837,
+        "time": 1715385599,
+        "organized": false
+      },
+      {
+        "event_id": "2327",
+        "title": "UrchinSec Tanzania National CTF MMXXIV",
+        "place": 16,
+        "points": "1750.0000",
+        "rating_points": 12.638449367088606,
+        "time": 1714203000,
+        "organized": false
+      },
+      {
+        "event_id": "2331",
+        "title": "Nexus Elites CTF",
+        "place": 80,
+        "points": "1970.0000",
+        "rating_points": 0,
+        "time": 1713585600,
+        "organized": false
+      },
+      {
+        "event_id": "2333",
+        "title": "HackPack CTF 2024 - LLM edition",
+        "place": 153,
+        "points": "100.0000",
+        "rating_points": 1.3226044089952365,
+        "time": 1712937600,
+        "organized": false
+      },
+      {
+        "event_id": "2335",
+        "title": "AVSS Contest 2024",
+        "place": 37,
+        "points": "119.0000",
+        "rating_points": 1.1271768602023127,
+        "time": 1713578400,
+        "organized": false
+      },
+      {
+        "event_id": "2336",
+        "title": "ShunyaCTF Aarambha",
+        "place": 16,
+        "points": "2268.0000",
+        "rating_points": 13.415785505836576,
+        "time": 1712939400,
+        "organized": false
+      },
+      {
+        "event_id": "2339",
+        "title": "CTF@CIT 2024",
+        "place": 97,
+        "points": "2960.0000",
+        "rating_points": 3.2412693881354353,
+        "time": 1713560400,
+        "organized": false
+      },
+      {
+        "event_id": "2341",
+        "title": "Cybercoliseum Ⅲ",
+        "place": 231,
+        "points": "1650.0000",
+        "rating_points": 2.9240942800369027,
+        "time": 1714287600,
+        "organized": false
+      },
+      {
+        "event_id": "2345",
+        "title": "HITCON CTF 2024 Quals",
+        "place": 864,
+        "points": "50.0000",
+        "rating_points": 0.706268672711923,
+        "time": 1720792800,
+        "organized": false
+      },
+      {
+        "event_id": "2348",
+        "title": "SpringForwardCTF",
+        "place": 73,
+        "points": "2535.0000",
+        "rating_points": 4.6102975909305615,
+        "time": 1714165200,
+        "organized": false
+      },
+      {
+        "event_id": "2353",
+        "title": "DeadSec CTF 2024",
+        "place": 570,
+        "points": "100.0000",
+        "rating_points": 0.4572144327201646,
+        "time": 1722024000,
+        "organized": false
+      },
+      {
+        "event_id": "2357",
+        "title": "BSidesSF 2024 CTF",
+        "place": 157,
+        "points": "900.0000",
+        "rating_points": 0,
+        "time": 1714780800,
+        "organized": false
+      },
+      {
+        "event_id": "2358",
+        "title": "N0PSctf",
+        "place": 422,
+        "points": "170.0000",
+        "rating_points": 0.6136841749975481,
+        "time": 1717228800,
+        "organized": false
+      },
+      {
+        "event_id": "2360",
+        "title": "AirOverflow CTF - 2024",
+        "place": 113,
+        "points": "50.0000",
+        "rating_points": 0.39540641750133476,
+        "time": 1714219200,
+        "organized": false
+      },
+      {
+        "event_id": "2364",
+        "title": "NahamCon CTF 2024",
+        "place": 625,
+        "points": "775.0000",
+        "rating_points": 1.6266993671988388,
+        "time": 1716494400,
+        "organized": false
+      },
+      {
+        "event_id": "2370",
+        "title": "squ1rrel CTF 2024",
+        "place": 130,
+        "points": "822.0000",
+        "rating_points": 1.905981228725557,
+        "time": 1714834800,
+        "organized": false
+      },
+      {
+        "event_id": "2375",
+        "title": "ångstromCTF 2024",
+        "place": 403,
+        "points": "220.0000",
+        "rating_points": 3.82322272610593,
+        "time": 1716595200,
+        "organized": false
+      },
+      {
+        "event_id": "2378",
+        "title": "n00bzCTF 2024",
+        "place": 204,
+        "points": "4327.0000",
+        "rating_points": 10.305639064798092,
+        "time": 1722646800,
+        "organized": false
+      },
+      {
+        "event_id": "2396",
+        "title": "ImaginaryCTF 2024",
+        "place": 356,
+        "points": "1000.0000",
+        "rating_points": 3.4925441209946815,
+        "time": 1721415600,
+        "organized": false
+      },
+      {
+        "event_id": "2402",
+        "title": " GlacierCTF 2024",
+        "place": 167,
+        "points": "100.0000",
+        "rating_points": 0.6726889122988591,
+        "time": 1732298400,
+        "organized": false
+      },
+      {
+        "event_id": "2403",
+        "title": "ASIS CTF Finals 2024",
+        "place": 127,
+        "points": "43.0000",
+        "rating_points": 1.6013020757205525,
+        "time": 1735394400,
+        "organized": false
+      },
+      {
+        "event_id": "2408",
+        "title": "CTFZone 2024 Quals",
+        "place": 363,
+        "points": "100.0000",
+        "rating_points": 1.064034776844087,
+        "time": 1723280400,
+        "organized": false
+      },
+      {
+        "event_id": "2416",
+        "title": "OSCTF",
+        "place": 9,
+        "points": "7310.0000",
+        "rating_points": 17.74022748721005,
+        "time": 1720830600,
+        "organized": false
+      },
+      {
+        "event_id": "2423",
+        "title": "TFC CTF 2024",
+        "place": 643,
+        "points": "50.0000",
+        "rating_points": 0.238676160449092,
+        "time": 1722596400,
+        "organized": false
+      },
+      {
+        "event_id": "2428",
+        "title": "CyberSpace CTF 2024",
+        "place": 427,
+        "points": "200.0000",
+        "rating_points": 0.358791607083664,
+        "time": 1725033600,
+        "organized": false
+      },
+      {
+        "event_id": "2430",
+        "title": "BlackHat MEA CTF Qualification 2024",
+        "place": 421,
+        "points": "320.0000",
+        "rating_points": 3.05563710445079,
+        "time": 1725184800,
+        "organized": false
+      },
+      {
+        "event_id": "2443",
+        "title": "DEADFACE CTF 2024",
+        "place": 31,
+        "points": "5708.0000",
+        "rating_points": 19.065744735102957,
+        "time": 1729260000,
+        "organized": false
+      },
+      {
+        "event_id": "2444",
+        "title": "Lexington Informatics Tournament CTF 2024",
+        "place": 103,
+        "points": "2041.0000",
+        "rating_points": 18.760619814865386,
+        "time": 1723302000,
+        "organized": false
+      },
+      {
+        "event_id": "2446",
+        "title": "1337UP LIVE CTF",
+        "place": 159,
+        "points": "1300.0000",
+        "rating_points": 3.806566271213647,
+        "time": 1731671999,
+        "organized": false
+      },
+      {
+        "event_id": "2456",
+        "title": "ISITDTU CTF 2024 Quals",
+        "place": 267,
+        "points": "50.0000",
+        "rating_points": 0.6395600486199639,
+        "time": 1729908000,
+        "organized": false
+      },
+      {
+        "event_id": "2461",
+        "title": "niteCTF 2024",
+        "place": 693,
+        "points": "10.0000",
+        "rating_points": 0.074189812071168,
+        "time": 1734091200,
+        "organized": false
+      },
+      {
+        "event_id": "2482",
+        "title": "CTF MetaRed Mexico Anuies-TIC 2024",
+        "place": 96,
+        "points": "400.0000",
+        "rating_points": 0,
+        "time": 1729004400,
+        "organized": false
+      },
+      {
+        "event_id": "2485",
+        "title": "SunshineCTF 2024",
+        "place": 178,
+        "points": "81.0000",
+        "rating_points": 0.5962006993808759,
+        "time": 1729346400,
+        "organized": false
+      },
+      {
+        "event_id": "2491",
+        "title": "H7CTF International",
+        "place": 0,
+        "points": "0",
+        "rating_points": 90.24,
+        "time": 1727321400,
+        "organized": true
+      },
+      {
+        "event_id": "2497",
+        "title": "IRON CTF 2024",
+        "place": 50,
+        "points": "4343.0000",
+        "rating_points": 6.906862849918729,
+        "time": 1728106200,
+        "organized": false
+      },
+      {
+        "event_id": "2505",
+        "title": "Questcon CTF",
+        "place": 19,
+        "points": "2275.0000",
+        "rating_points": 20.346213093709885,
+        "time": 1729578600,
+        "organized": false
+      },
+      {
+        "event_id": "2507",
+        "title": "EKOPARTY CTF 2024",
+        "place": 271,
+        "points": "107.0000",
+        "rating_points": 0.14717897590837523,
+        "time": 1731502800,
+        "organized": false
+      },
+      {
+        "event_id": "2512",
+        "title": "BlueHens CTF 2024",
+        "place": 101,
+        "points": "1153.0000",
+        "rating_points": 2.515799634069955,
+        "time": 1731085200,
+        "organized": false
+      },
+      {
+        "event_id": "2516",
+        "title": "SpookyCTF 2024",
+        "place": 72,
+        "points": "5006.0000",
+        "rating_points": 6.865228826933193,
+        "time": 1729897200,
+        "organized": false
+      },
+      {
+        "event_id": "2517",
+        "title": "BlockCTF 2024 (Formerly SquareCTF)",
+        "place": 218,
+        "points": "26.0000",
+        "rating_points": 0.6113370137065618,
+        "time": 1731535200,
+        "organized": false
+      },
+      {
+        "event_id": "2524",
+        "title": "EngimaXplore2.0 2024",
+        "place": 12,
+        "points": "2860.0000",
+        "rating_points": 15.48978648820905,
+        "time": 1729772999,
+        "organized": false
+      },
+      {
+        "event_id": "2529",
+        "title": "Z3R0 D4Y CTF",
+        "place": 3,
+        "points": "3930.0000",
+        "rating_points": 32.83901515151515,
+        "time": 1729760400,
+        "organized": false
+      },
+      {
+        "event_id": "2535",
+        "title": "M*CTF 2024 Junior Quals",
+        "place": 78,
+        "points": "200.0000",
+        "rating_points": 0.5707750193731502,
+        "time": 1730530800,
+        "organized": false
+      },
+      {
+        "event_id": "2537",
+        "title": "Metared Argentina CERTUNLP 2024",
+        "place": 61,
+        "points": "1632.0000",
+        "rating_points": 4.533547405779956,
+        "time": 1731063600,
+        "organized": false
+      },
+      {
+        "event_id": "2545",
+        "title": "4T$ CTF",
+        "place": 63,
+        "points": "670.0000",
+        "rating_points": 3.7945546093941256,
+        "time": 1731088800,
+        "organized": false
+      },
+      {
+        "event_id": "2550",
+        "title": "Hackers N' Hops",
+        "place": 40,
+        "points": "565.0000",
+        "rating_points": 7.444718215158925,
+        "time": 1730541600,
+        "organized": false
+      },
+      {
+        "event_id": "2559",
+        "title": "cruXipher 2024 - ATMoS '24, BITS Hyderabad",
+        "place": 15,
+        "points": "1963.0000",
+        "rating_points": 7.264362571765331,
+        "time": 1731069000,
+        "organized": false
+      },
+      {
+        "event_id": "2572",
+        "title": "World Wide CTF 2024",
+        "place": 37,
+        "points": "1578.0000",
+        "rating_points": 5.084502317751689,
+        "time": 1732968000,
+        "organized": false
+      },
+      {
+        "event_id": "2597",
+        "title": "Wargames.MY CTF 2024",
+        "place": 26,
+        "points": "2717.0000",
+        "rating_points": 5.453635545064683,
+        "time": 1735315200,
+        "organized": false
+      }
+    ],
+    "2025": [
+      {
+        "event_id": "2486",
+        "title": "N0PSctf",
+        "place": 196,
+        "points": "800.0000",
+        "rating_points": 2.366210155910378,
+        "time": 1748678400,
+        "organized": false
+      },
+      {
+        "event_id": "2503",
+        "title": "IrisCTF 2025",
+        "place": 132,
+        "points": "974.0000",
+        "rating_points": 3.5274736804666382,
+        "time": 1735948800,
+        "organized": false
+      },
+      {
+        "event_id": "2563",
+        "title": "UMDCTF 2025",
+        "place": 489,
+        "points": "171.0000",
+        "rating_points": 0.871960657567407,
+        "time": 1745618400,
+        "organized": false
+      },
+      {
+        "event_id": "2570",
+        "title": "UofTCTF 2025",
+        "place": 749,
+        "points": "100.0000",
+        "rating_points": 0.21874473448441992,
+        "time": 1736553600,
+        "organized": false
+      },
+      {
+        "event_id": "2573",
+        "title": "SwampCTF 2025",
+        "place": 74,
+        "points": "2254.0000",
+        "rating_points": 17.74360411402904,
+        "time": 1743195600,
+        "organized": false
+      },
+      {
+        "event_id": "2579",
+        "title": "WolvCTF 2025",
+        "place": 117,
+        "points": "1493.0000",
+        "rating_points": 5.1751853489763535,
+        "time": 1742598000,
+        "organized": false
+      },
+      {
+        "event_id": "2582",
+        "title": "New Year CTF 2025",
+        "place": 55,
+        "points": "5363.0000",
+        "rating_points": 6.076232775021449,
+        "time": 1736701200,
+        "organized": false
+      },
+      {
+        "event_id": "2584",
+        "title": "TUCTF 2024",
+        "place": 231,
+        "points": "250.0000",
+        "rating_points": 1.4226287790320487,
+        "time": 1737745200,
+        "organized": false
+      },
+      {
+        "event_id": "2585",
+        "title": "DamCTF 2025",
+        "place": 301,
+        "points": "100.0000",
+        "rating_points": 0.9687592361996851,
+        "time": 1746835200,
+        "organized": false
+      },
+      {
+        "event_id": "2591",
+        "title": "smileyCTF 2025",
+        "place": 238,
+        "points": "210.0000",
+        "rating_points": 1.435915994776289,
+        "time": 1749859200,
+        "organized": false
+      },
+      {
+        "event_id": "2596",
+        "title": "BearcatCTF 2025: World Tour",
+        "place": 57,
+        "points": "3250.0000",
+        "rating_points": 6.680614742501414,
+        "time": 1738411200,
+        "organized": false
+      },
+      {
+        "event_id": "2601",
+        "title": "Nowruz 1404",
+        "place": 5,
+        "points": "13607.0000",
+        "rating_points": 25.690354422489563,
+        "time": 1742045400,
+        "organized": false
+      },
+      {
+        "event_id": "2607",
+        "title": "BITSCTF 2025",
+        "place": 682,
+        "points": "50.0000",
+        "rating_points": 0.14316421928595008,
+        "time": 1738929600,
+        "organized": false
+      },
+      {
+        "event_id": "2608",
+        "title": "Pragyan CTF 2025",
+        "place": 14,
+        "points": "2045.0000",
+        "rating_points": 0,
+        "time": 1738931400,
+        "organized": false
+      },
+      {
+        "event_id": "2610",
+        "title": "KnightCTF 2025",
+        "place": 251,
+        "points": "1000.0000",
+        "rating_points": 3.296090013872469,
+        "time": 1737385200,
+        "organized": false
+      },
+      {
+        "event_id": "2617",
+        "title": "DiceCTF 2025 Quals",
+        "place": 527,
+        "points": "105.0000",
+        "rating_points": 1.8128886407872653,
+        "time": 1743195600,
+        "organized": false
+      },
+      {
+        "event_id": "2629",
+        "title": "L3akCTF 2025",
+        "place": 603,
+        "points": "400.0000",
+        "rating_points": 0.7157490326147042,
+        "time": 1752253200,
+        "organized": false
+      },
+      {
+        "event_id": "2630",
+        "title": "VishwaCTF 2025",
+        "place": 2,
+        "points": "7800.0000",
+        "rating_points": 41.849999999999994,
+        "time": 1740997800,
+        "organized": false
+      },
+      {
+        "event_id": "2631",
+        "title": "DeadSec CTF 2025",
+        "place": 148,
+        "points": "100.0000",
+        "rating_points": 0.5544734085582129,
+        "time": 1753480800,
+        "organized": false
+      },
+      {
+        "event_id": "2638",
+        "title": "ApoorvCTF 2025",
+        "place": 25,
+        "points": "4495.0000",
+        "rating_points": 10.713752497524975,
+        "time": 1740756600,
+        "organized": false
+      },
+      {
+        "event_id": "2639",
+        "title": "1753CTF 2025",
+        "place": 251,
+        "points": "300.0000",
+        "rating_points": 3.0243604587176156,
+        "time": 1744390800,
+        "organized": false
+      },
+      {
+        "event_id": "2641",
+        "title": "UTCTF 2025",
+        "place": 66,
+        "points": "9974.0000",
+        "rating_points": 46.2116549810108,
+        "time": 1741993200,
+        "organized": false
+      },
+      {
+        "event_id": "2642",
+        "title": "Nullcon Goa HackIM 2025 CTF",
+        "place": 281,
+        "points": "251.0000",
+        "rating_points": 2.044486733103412,
+        "time": 1738398600,
+        "organized": false
+      },
+      {
+        "event_id": "2647",
+        "title": "Pearl CTF",
+        "place": 120,
+        "points": "900.0000",
+        "rating_points": 3.6627500000000004,
+        "time": 1741350600,
+        "organized": false
+      },
+      {
+        "event_id": "2648",
+        "title": "Codefest CTF 2025",
+        "place": 20,
+        "points": "3623.0000",
+        "rating_points": 17.654858952543016,
+        "time": 1737808200,
+        "organized": false
+      },
+      {
+        "event_id": "2651",
+        "title": "DawgCTF 2025",
+        "place": 32,
+        "points": "9475.0000",
+        "rating_points": 45.09713669950739,
+        "time": 1744977600,
+        "organized": false
+      },
+      {
+        "event_id": "2653",
+        "title": "UMassCTF 2025",
+        "place": 234,
+        "points": "250.0000",
+        "rating_points": 1.1794099574196075,
+        "time": 1744999200,
+        "organized": false
+      },
+      {
+        "event_id": "2657",
+        "title": "BroncoCTF 2025",
+        "place": 442,
+        "points": "51.0000",
+        "rating_points": 0.15167442059012148,
+        "time": 1739646000,
+        "organized": false
+      },
+      {
+        "event_id": "2665",
+        "title": "ATC Winter Vibes Community CTF",
+        "place": 3,
+        "points": "1850.0000",
+        "rating_points": 0,
+        "time": 1738306800,
+        "organized": false
+      },
+      {
+        "event_id": "2667",
+        "title": "JerseyCTF V",
+        "place": 17,
+        "points": "19543.0000",
+        "rating_points": 13.433251746977323,
+        "time": 1743274800,
+        "organized": false
+      },
+      {
+        "event_id": "2668",
+        "title": "Kashi CTF 2025",
+        "place": 19,
+        "points": "5375.0000",
+        "rating_points": 11.24008195605413,
+        "time": 1740225600,
+        "organized": false
+      },
+      {
+        "event_id": "2669",
+        "title": "DownUnderCTF 2025",
+        "place": 540,
+        "points": "900.0000",
+        "rating_points": 7.163721240952695,
+        "time": 1752831000,
+        "organized": false
+      },
+      {
+        "event_id": "2672",
+        "title": "bi0sCTF 2025 ",
+        "place": 198,
+        "points": "10.0000",
+        "rating_points": 0.529940613068775,
+        "time": 1749274200,
+        "organized": false
+      },
+      {
+        "event_id": "2673",
+        "title": "RITSEC CTF 2025",
+        "place": 105,
+        "points": "936.0000",
+        "rating_points": 2.3528755813004816,
+        "time": 1742590800,
+        "organized": false
+      },
+      {
+        "event_id": "2674",
+        "title": "Cyber Apocalypse CTF 2025: Tales from Eldoria",
+        "place": 269,
+        "points": "35250.0000",
+        "rating_points": 14.924817752599868,
+        "time": 1742562000,
+        "organized": false
+      },
+      {
+        "event_id": "2677",
+        "title": "EHAX CTF 2025",
+        "place": 313,
+        "points": "100.0000",
+        "rating_points": 0.30246362998299625,
+        "time": 1739635200,
+        "organized": false
+      },
+      {
+        "event_id": "2680",
+        "title": "WHY2025 CTF",
+        "place": 1083,
+        "points": "50.0000",
+        "rating_points": 0,
+        "time": 1754668800,
+        "organized": false
+      },
+      {
+        "event_id": "2681",
+        "title": "TAMUctf 2025",
+        "place": 163,
+        "points": "210.0000",
+        "rating_points": 1.6712918652449789,
+        "time": 1743199200,
+        "organized": false
+      },
+      {
+        "event_id": "2683",
+        "title": "SekaiCTF 2025",
+        "place": 245,
+        "points": "339.0000",
+        "rating_points": 3.418767678392241,
+        "time": 1755306000,
+        "organized": false
+      },
+      {
+        "event_id": "2706",
+        "title": "Codegate CTF 2025 Preliminary",
+        "place": 140,
+        "points": "250.0000",
+        "rating_points": 3.587042243978454,
+        "time": 1743206400,
+        "organized": false
+      },
+      {
+        "event_id": "2708",
+        "title": "squ1rrel CTF 2025",
+        "place": 38,
+        "points": "4359.0000",
+        "rating_points": 9.846777983594757,
+        "time": 1743807600,
+        "organized": false
+      },
+      {
+        "event_id": "2715",
+        "title": "BYUCTF 2025",
+        "place": 154,
+        "points": "2205.0000",
+        "rating_points": 7.054855069629165,
+        "time": 1747447200,
+        "organized": false
+      },
+      {
+        "event_id": "2727",
+        "title": "WatCTF W25",
+        "place": 61,
+        "points": "501.0000",
+        "rating_points": 2.666275937906968,
+        "time": 1742065200,
+        "organized": false
+      },
+      {
+        "event_id": "2736",
+        "title": "Texas Security Awareness Week 2025",
+        "place": 7,
+        "points": "5313.0000",
+        "rating_points": 23.206703910614525,
+        "time": 1744398000,
+        "organized": false
+      },
+      {
+        "event_id": "2747",
+        "title": "Capture Point 5353 3.0",
+        "place": 31,
+        "points": "440.0000",
+        "rating_points": 4.727196185838912,
+        "time": 1743357600,
+        "organized": false
+      },
+      {
+        "event_id": "2753",
+        "title": "World Wide CTF 2025",
+        "place": 76,
+        "points": "3158.0000",
+        "rating_points": 5.700790297597469,
+        "time": 1753531200,
+        "organized": false
+      },
+      {
+        "event_id": "2759",
+        "title": "CTF@CIT 2025",
+        "place": 42,
+        "points": "22640.0000",
+        "rating_points": 15.66605734038227,
+        "time": 1745614800,
+        "organized": false
+      },
+      {
+        "event_id": "2761",
+        "title": "Incognito 6.0",
+        "place": 7,
+        "points": "950.0000",
+        "rating_points": 29.48496894409938,
+        "time": 1745798400,
+        "organized": false
+      },
+      {
+        "event_id": "2765",
+        "title": "Grey Cat The Flag 2025",
+        "place": 119,
+        "points": "2588.0000",
+        "rating_points": 5.150606618848912,
+        "time": 1748692800,
+        "organized": false
+      },
+      {
+        "event_id": "2782",
+        "title": "NahamCon CTF 2025",
+        "place": 125,
+        "points": "4032.0000",
+        "rating_points": 14.092917751449459,
+        "time": 1748026800,
+        "organized": false
+      },
+      {
+        "event_id": "2785",
+        "title": "San Diego CTF 2025",
+        "place": 27,
+        "points": "825.0000",
+        "rating_points": 5.4248777078965755,
+        "time": 1746831600,
+        "organized": false
+      },
+      {
+        "event_id": "2789",
+        "title": "GooseCTF - misc0nfig 25",
+        "place": 165,
+        "points": "100.0000",
+        "rating_points": 0,
+        "time": 1746874800,
+        "organized": false
+      },
+      {
+        "event_id": "2799",
+        "title": "ImaginaryCTF 2025",
+        "place": 829,
+        "points": "400.0000",
+        "rating_points": 2.6891242842226215,
+        "time": 1757098800,
+        "organized": false
+      },
+      {
+        "event_id": "2815",
+        "title": "GIT X IITB Trust Lab CTF",
+        "place": 4,
+        "points": "2900.0000",
+        "rating_points": 0,
+        "time": 1748416992,
+        "organized": false
+      },
+      {
+        "event_id": "2816",
+        "title": "BlitzCTF",
+        "place": 46,
+        "points": "2896.0000",
+        "rating_points": 4.173173250648744,
+        "time": 1751725800,
+        "organized": false
+      },
+      {
+        "event_id": "2850",
+        "title": "PatriotCTF 2025",
+        "place": 92,
+        "points": "4180.0000",
+        "rating_points": 26.48715476805851,
+        "time": 1763748000,
+        "organized": false
+      },
+      {
+        "event_id": "2851",
+        "title": "niteCTF 2025",
+        "place": 295,
+        "points": "150.0000",
+        "rating_points": 0.9614167037434256,
+        "time": 1765540800,
+        "organized": false
+      },
+      {
+        "event_id": "2864",
+        "title": "Full Weak Engineer CTF 2025",
+        "place": 53,
+        "points": "3483.0000",
+        "rating_points": 7.146113154621715,
+        "time": 1756461600,
+        "organized": false
+      },
+      {
+        "event_id": "2866",
+        "title": "DefCamp Capture the Flag (D-CTF) 2025 Quals",
+        "place": 121,
+        "points": "347.0000",
+        "rating_points": 3.415472664634992,
+        "time": 1757671200,
+        "organized": false
+      },
+      {
+        "event_id": "2869",
+        "title": "HeroCTF v7",
+        "place": 119,
+        "points": "1963.0000",
+        "rating_points": 10.609709298973158,
+        "time": 1764360000,
+        "organized": false
+      },
+      {
+        "event_id": "2879",
+        "title": "CRACCON 2025",
+        "place": 3,
+        "points": "2760.0000",
+        "rating_points": 19.341218229623138,
+        "time": 1757145600,
+        "organized": false
+      },
+      {
+        "event_id": "2903",
+        "title": "CSAW CTF Qualification Round 2025",
+        "place": 137,
+        "points": "1578.0000",
+        "rating_points": 3.241350237859605,
+        "time": 1757692800,
+        "organized": false
+      },
+      {
+        "event_id": "2912",
+        "title": "DEADFACE CTF 2025",
+        "place": 448,
+        "points": "167.0000",
+        "rating_points": 0.6762002081313226,
+        "time": 1761400800,
+        "organized": false
+      },
+      {
+        "event_id": "2915",
+        "title": "BackdoorCTF 2025",
+        "place": 338,
+        "points": "300.0000",
+        "rating_points": 3.3742393472324355,
+        "time": 1765022400,
+        "organized": false
+      },
+      {
+        "event_id": "2938",
+        "title": "H7CTF 2025",
+        "place": 0,
+        "points": "0",
+        "rating_points": 90.24,
+        "time": 1760758200,
+        "organized": true
+      },
+      {
+        "event_id": "2952",
+        "title": "2025 Qiangwang Challenge on Cyber Mimic Defense Qualification",
+        "place": 130,
+        "points": "322.0000",
+        "rating_points": 0,
+        "time": 1761354000,
+        "organized": false
+      }
+    ]
+  },
+  "upcoming": [
+    {
+      "organizers": [
+        {
+          "id": 4140,
+          "name": "ASIS"
+        }
+      ],
+      "ctftime_url": "https://ctftime.org/event/2613/",
+      "ctf_id": 59,
+      "weight": 100,
+      "duration": {
+        "hours": 0,
+        "days": 1
+      },
+      "live_feed": "https://ctftime.org/live/2613/",
+      "logo": "",
+      "id": 2613,
+      "title": "ASIS CTF Finals 2025",
+      "start": "2025-12-27T14:00:00+00:00",
+      "participants": 182,
+      "location": "",
+      "finish": "2025-12-28T14:00:00+00:00",
+      "description": "ASIS CTF Finals 2025",
+      "format": "Jeopardy",
+      "is_votable_now": false,
+      "prizes": ".:: TBA ::.",
+      "format_id": 1,
+      "onsite": false,
+      "restrictions": "Open",
+      "url": "https://asisctf.com/",
+      "public_votable": true
+    },
+    {
+      "organizers": [
+        {
+          "id": 585,
+          "name": "hxp"
+        }
+      ],
+      "ctftime_url": "https://ctftime.org/event/2924/",
+      "ctf_id": 120,
+      "weight": 98.14,
+      "duration": {
+        "hours": 0,
+        "days": 2
+      },
+      "live_feed": "",
+      "logo": "https://ctftime.org//media/events/hxp-39c3.png",
+      "id": 2924,
+      "title": "hxp 39C3 CTF",
+      "start": "2025-12-27T20:00:00+00:00",
+      "participants": 174,
+      "location": "",
+      "finish": "2025-12-29T20:00:00+00:00",
+      "description": "It’s that time of the year again and December is fast approaching. We are happy to announce this year’s hxp 39C3 CTF, which will run for 48 hours during 39C3. We’re looking forward to seeing you in Hamburg (but you can of course also participate online).",
+      "format": "Jeopardy",
+      "is_votable_now": false,
+      "prizes": "",
+      "format_id": 1,
+      "onsite": false,
+      "restrictions": "Open",
+      "url": "https://2025.ctf.link/",
+      "public_votable": true
+    },
+    {
+      "organizers": [
+        {
+          "id": 139261,
+          "name": "UofTCTF"
+        }
+      ],
+      "ctftime_url": "https://ctftime.org/event/2969/",
+      "ctf_id": 1052,
+      "weight": 33.49,
+      "duration": {
+        "hours": 0,
+        "days": 2
+      },
+      "live_feed": "",
+      "logo": "https://ctftime.org//media/events/uoftctf_logo_3000_black_1.png",
+      "id": 2969,
+      "title": "UofTCTF 2026",
+      "start": "2026-01-10T00:00:00+00:00",
+      "participants": 16,
+      "location": "",
+      "finish": "2026-01-12T00:00:00+00:00",
+      "description": "UofTCTF 2026 is the annual capture-the-flag competition organized by the UofTCTF team. This year’s event will take place online from January 9, 2026, at 7:00 PM EST to January 11, 2026, at 7:00 PM EST. It will be a jeopardy-style CTF with classic categories like web, pwn, crypto, rev, forensics, and misc.\r\n\r\nJoin the event discord server: https://discord.gg/4mQP8Tk3JE\r\n\r\nThank you to our generous sponsors, without whom we could not run this event:\r\n- Dataflow Security\r\n- Zellic\r\n- Offsec\r\n- Binary Ninja\r\n- BugCrowd\r\n- KPMG Canada\r\n- UofT ITS\r\n- UofT DCS\r\n\r\nInfra sponsored by goo.gle/ctfsponsorship",
+      "format": "Jeopardy",
+      "is_votable_now": false,
+      "prizes": "Open Division:\r\n1st place: \r\n- $1337 USD\r\n- 1x OffSec Course and Cert Bundle\r\n2nd place: \r\n- $777 USD\r\n- 1x Binary Ninja Personal License\r\n3rd place:\r\n- $512 USD\r\n\r\nUofT Division:\r\n\r\n1st place:\r\n- $350 CAD\r\n- 1x Binary Ninja Personal License\r\n2nd place:\r\n- $250 CAD\r\n3rd place:\r\n- $100 CAD\r\n\r\nWriteups:\r\n5x $50 USD",
+      "format_id": 1,
+      "onsite": false,
+      "restrictions": "Open",
+      "url": "https://ctf.uoftctf.org/",
+      "public_votable": true
+    }
+  ],
+  "lastUpdated": "2025-12-24T17:13:58.081Z"
+}

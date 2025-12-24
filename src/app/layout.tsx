@@ -15,7 +15,11 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "H7Tex",
-  description: "CTF Guild",
+  description: "Upcoming CTF Guild",
+  viewport: "width=device-width, initial-scale=0.75",
+  icons: {
+    icon: '/favicon.ico',
+  },
 };
 
 export default function RootLayout({
