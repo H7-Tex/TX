@@ -1,3 +1,3 @@
 ```
-H7Tex - Upcoming CTF Guild
+H7Tex - Upcoming CTF Guild!
 ```
