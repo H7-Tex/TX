@@ -16,16 +16,6 @@ const achievements: Achievement[] = [
     description: "National Rankings on CTFTime"
   },
   {
-    icon: <Target className="w-8 h-8 text-green-400" />,
-    title: "400+ CTFs",
-    description: "Competed in over 400 CTFs since inception"
-  },
-  {
-    icon: <Flag className="w-8 h-8 text-red-400" />,
-    title: "H7CTF",
-    description: "Hosted global CTFs with 4000+ participants annually"
-  },
-  {
     icon: <Medal className="w-8 h-8 text-blue-400" />,
     title: "CyberTrail 2024 Winner",
     description: "Secured 1st place, winning 40k INR"
