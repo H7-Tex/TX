@@ -345,7 +345,7 @@ export default function CTFVisualChart() {
       {/* Top 10 Performances */}
       <div className="bg-black/40 border border-green-900/50 p-4 md:p-6 rounded-lg">
         <div className="flex items-center justify-between mb-4">
-          <h3 className="text-xl md:text-2xl font-mono text-white">Top 10 Rating Contributors in {selectedYear}</h3>
+          <h3 className="text-xl md:text-2xl font-mono text-white">Top 10 Events by Rating Impact • {selectedYear}</h3>
           {availableYears.length > 1 && (
             <div className="flex gap-2">
               {availableYears.map(year => (
@@ -364,7 +364,7 @@ export default function CTFVisualChart() {
             </div>
           )}
         </div>
-        <p className="text-gray-500 text-xs font-mono mb-4">Events that contributed the most rating points to your {selectedYear} score</p>
+        <p className="text-gray-500 text-xs font-mono mb-4">Competitions with the highest contribution to team rating in {selectedYear}</p>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-3">
           {currentResults
             .filter(e => e.rating_points && e.rating_points > 0)
