@@ -195,8 +195,6 @@ export default function CTFVisualChart() {
       name: new Date(event.time * 1000).toLocaleDateString('en-US', { month: 'short', day: 'numeric' }),
       fullName: event.title,
       place: event.place,
-      // Invert: convert place to "score" where higher is better
-      score: 1000 - event.place, // Max assumed 1000 teams, so place 1 = 999, place 100 = 900
       eventNum: sortedResults.indexOf(event) + 1
     }));
 
@@ -310,20 +308,20 @@ export default function CTFVisualChart() {
                 angle={-45}
                 textAnchor="end"
                 height={80}
-                interval={0}
               />
               <YAxis 
                 stroke="#666" 
                 tick={{ fill: '#999', fontSize: 12 }}
+                reversed={true}
                 label={{ 
-                  value: 'Performance Score (higher is better)', 
+                  value: 'Placement Rank', 
                   angle: -90, 
                   position: 'insideLeft', 
                   style: { fill: '#999', fontSize: 11, textAnchor: 'middle' },
                   offset: 10
                 }}
-                width={80}
-                domain={['dataMin - 50', 'dataMax + 50']}
+                width={60}
+                domain={['auto', 'auto']}
               />
               <Tooltip content={<CustomTooltip />} />
               <Legend 
@@ -332,18 +330,18 @@ export default function CTFVisualChart() {
               />
               <Line 
                 type="monotoneX" 
-                dataKey="score" 
+                dataKey="place" 
                 stroke="#00ff00" 
                 strokeWidth={2.5}
                 dot={{ fill: '#00ff00', r: 4 }}
                 activeDot={{ r: 6 }}
-                name="Performance"
+                name="Placement"
               />
             </LineChart>
           </ResponsiveContainer>
         </div>
         <div className="text-gray-500 text-xs font-mono mt-1 text-center">
-          <p>{chartData.length} events • Performance = 1000 - rank (higher is better)</p>
+          <p>{chartData.length} sampled events • Y-axis shows placement rank (lower number = better)</p>
         </div>
       </div>
 
