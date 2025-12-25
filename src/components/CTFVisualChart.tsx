@@ -340,9 +340,6 @@ export default function CTFVisualChart() {
             </LineChart>
           </ResponsiveContainer>
         </div>
-        <div className="text-gray-500 text-xs font-mono mt-1 text-center">
-          <p>{chartData.length} sampled events • Y-axis shows placement rank (lower number = better)</p>
-        </div>
       </div>
 
       {/* Top 10 Performances */}
