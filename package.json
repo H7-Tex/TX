@@ -1,37 +1,10 @@
 {
   "name": "h7tex",
-  "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
-    "dev": "next dev --turbopack",
-    "build": "node scripts/fetch-ctftime.js && next build",
-    "build:no-fetch": "next build",
-    "start": "next start",
-    "lint": "next lint",
-    "export": "next build && next export"
-  },
-  "dependencies": {
-    "@radix-ui/react-slot": "^1.1.1",
-    "class-variance-authority": "^0.7.1",
-    "clsx": "^2.1.1",
-    "h7tex": "file:",
-    "lucide-react": "^0.469.0",
-    "next": "^16.1.1",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "recharts": "^3.6.0",
-    "tailwind-merge": "^2.6.0",
-    "tailwindcss-animate": "^1.0.7"
-  },
-  "devDependencies": {
-    "@eslint/eslintrc": "^3",
-    "@types/node": "20.19.4",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "^16.1.1",
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
-    "typescript": "5.8.3"
+    "build": "node scripts/build.mjs",
+    "build:offline": "node scripts/build.mjs --offline",
+    "preview": "node scripts/build.mjs --offline && python3 -m http.server 8000 --directory out"
   }
 }
