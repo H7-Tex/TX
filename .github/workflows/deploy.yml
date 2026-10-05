@@ -1,13 +1,11 @@
-name: Deploy Next.js site to GitHub Pages
+name: Deploy h7tex.com to GitHub Pages
 
 on:
   push:
     branches: ["master"]
-  
-  # weekly deployment
+  # weekly rebuild, so CTFtime numbers and the date stay current
   schedule:
     - cron: '0 0 * * 0'
-  
   workflow_dispatch:
 
 permissions:
@@ -25,24 +23,18 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: 'npm'
-      
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
-        with:
-          static_site_generator: next
-      
-      - name: Install dependencies
-        run: npm ci
-      
-      - name: Build with Next.js
-        run: npm run build
-      
+
+      - name: Build
+        run: node scripts/build.mjs
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
