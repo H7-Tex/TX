@@ -1,7 +1,7 @@
 // Builds h7tex.com into ./out. No dependencies.
 //
 //   src/      hand-written pages; index.html carries a {{data}} placeholder
-//   static/   copied as-is (fonts, favicon, og.png, robots.txt, .well-known/, CNAME)
+//   static/   copied as-is (fonts, favicon, share.png, robots.txt, .well-known/, CNAME)
 //   data/     CTFtime snapshot, used for anything the live API can't provide
 import { cp, mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import https from 'node:https';

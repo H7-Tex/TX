@@ -5,10 +5,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>h7tex</title>
 <meta name="description" content="h7tex is a ctf team from chennai, india.">
+<meta name="theme-color" content="#17130f">
+<meta property="og:type" content="website">
 <meta property="og:title" content="h7tex">
 <meta property="og:description" content="a ctf team from chennai, india.">
-<meta property="og:image" content="https://h7tex.com/og.png">
 <meta property="og:url" content="https://h7tex.com/">
+<meta property="og:image" content="https://h7tex.com/share.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="the letters h7 in three dimensions, drawn in characters">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.ico">
 <link rel="preload" href="/fonts/bricolage.woff2" as="font" type="font/woff2" crossorigin>
@@ -182,7 +188,10 @@ const root = document.documentElement;
 /* theme */
 const mq = matchMedia('(prefers-color-scheme: dark)');
 const current = () => root.dataset.theme || (mq.matches ? 'dark' : 'light');
-const paintBar = () => document.querySelectorAll('[data-set]').forEach((b) => b.classList.toggle('on', b.dataset.set === current()));
+const paintBar = () => {
+  document.querySelectorAll('[data-set]').forEach((b) => b.classList.toggle('on', b.dataset.set === current()));
+  $('meta[name="theme-color"]').content = current() === 'dark' ? '#17130f' : '#f6f2e9';
+};
 document.querySelectorAll('[data-set]').forEach((b) => b.addEventListener('click', () => {
   root.dataset.theme = b.dataset.set;
   sound.theme(b.dataset.set);
