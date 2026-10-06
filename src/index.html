@@ -39,7 +39,8 @@ a { color: inherit; }
 :focus-visible { outline: 1px solid var(--acc); outline-offset: 3px; border-radius: 2px; }
 
 .pop { font-family: Fragment, ui-monospace, monospace; }
-.bar { display: flex; justify-content: space-between; gap: 1rem; padding: 1.1rem clamp(1.25rem, 3vw, 2rem); font-size: 14px; letter-spacing: -.005em; color: var(--dim); font-variant-numeric: tabular-nums; }
+.bar { display: flex; justify-content: space-between; gap: 1rem; padding: 1.1rem clamp(1.25rem, 3vw, 2rem); font-size: 14px; color: var(--dim); font-variant-numeric: tabular-nums; white-space: nowrap; }
+#clock { margin-left: auto; }
 .bar button:hover, .bar a:hover { color: var(--ink); }
 .bar .on { color: var(--ink); }
 .bar a { text-decoration: none; }
@@ -100,7 +101,6 @@ canvas:active { cursor: grabbing; }
 </main>
 
 <div class="bar">
-  <span id="next"></span>
   <span id="clock"></span>
 </div>
 
@@ -246,8 +246,6 @@ const countdown = () => { const n = Date.now(); return n >= FINAL_END ? 'conclud
 const ord = (p) => p + (['th', 'st', 'nd', 'rd'][(p % 100 - 20) % 10] || ['th', 'st', 'nd', 'rd'][p % 100] || 'th');
 function tick() {
   $('#clock').textContent = `( ${new Date().toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit', timeZone: 'Asia/Kolkata' })} in chennai )`;
-  const n = Date.now(), next = D.upcoming.find((e) => Date.parse(e.finish) > n);
-  $('#next').innerHTML = next ? `( next on the board: <a href="${next.url}">${next.title.toLowerCase()}</a>, ${Date.parse(next.start) <= n ? 'live' : 'in ' + until(Date.parse(next.start) - n)} )` : '';
   const c = $('[data-fill="countdown"]', pop); if (c) c.textContent = countdown();
 }
 

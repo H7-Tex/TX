@@ -42,7 +42,6 @@ async function data() {
   // snapshot rows are newest first within a year: [id, title, place, points, rating]
   const years = Object.keys(snap.results).sort();
   const events = years.flatMap((y) => [...snap.results[y]].reverse().map((r) => ({ id: r[0], title: r[1], place: r[2], y })));
-  let upcoming = [];
 
   if (!OFFLINE) {
     try {
@@ -60,17 +59,6 @@ async function data() {
     } catch (e) {
       console.warn(`ctftime: results unavailable (${e.message}), using the snapshot`);
     }
-    try {
-      const now = Math.floor(Date.now() / 1000);
-      const evs = await get(`https://ctftime.org/api/v1/events/?limit=40&start=${now - 2 * 86400}&finish=${now + 30 * 86400}`);
-      upcoming = evs
-        .filter((e) => e.weight > 0 && !e.onsite)
-        .slice(0, 8)
-        .map((e) => ({ title: e.title, start: e.start, finish: e.finish, url: e.ctftime_url }));
-      console.log(`ctftime: ${upcoming.length} upcoming event(s)`);
-    } catch (e) {
-      console.warn(`ctftime: upcoming unavailable (${e.message})`);
-    }
   }
 
   const count = (y) => events.filter((e) => e.y === y).length;
@@ -79,7 +67,7 @@ async function data() {
     .sort()
     .map((y) => ({ y, world: rating[y].rating_place, india: rating[y].country_place, n: count(y) }));
 
-  return { events: events.map((e) => [e.title, e.place]), seasons, upcoming };
+  return { events: events.map((e) => [e.title, e.place]), seasons };
 }
 
 await rm(OUT, { recursive: true, force: true });
